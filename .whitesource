@@ -31,7 +31,8 @@
     "snippetSize": 0,
     "baseBranches": [
       "dev",
-      "stg"
+      "stg",
+      "prod"
     ]
   }
 }
